@@ -1,0 +1,7 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.enabled": true,
+    "files.exclude": {
+        "": true
+    }
+}
